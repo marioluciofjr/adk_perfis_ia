@@ -176,6 +176,7 @@ Para utilizar este código, você precisará de uma chave de API do Google Gemin
 * [O que é uma API?](https://www.alura.com.br/artigos/api) - Guia da Alura sobre APIs;
 * [venv — Criação de ambientes virtuais](https://docs.python.org/pt-br/3/library/venv.html) - Explicação completa de como funcionam os venvs
 * [Features do UV](https://docs.astral.sh/uv/getting-started/features/) - algumas funcionalidades para utilizar o uv no terminal da melhor maneira;
+* [Produtividade para quem quer tempo](https://www.amazon.com.br/Produtividade-para-quem-quer-tempo/dp/8545200978/ref=asc_df_8545200978?mcid=50bae4aff73031df926a42716dd6fc1d&tag=googleshopp00-20&linkCode=df0&hvadid=709857900630&hvpos=&hvnetw=g&hvrand=341058357807180925&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9196805&hvtargid=pla-778088644518&psc=1&language=pt_BR&gad_source=1) - livro do palestrante e coach Gerônimo Theml;
 * [Agentes de IA poderosos com o Google ADK](https://www.youtube.com/watch?v=NkIZgBvA6G4&list=PLbmt8d_ueDMWHIv-HgdM532MLFSju6W2D&ab_channel=Sandeco) - playlist de vídeos do canal Sandeco sobre o framework ADK.
 
 ## Contribuições
