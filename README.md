@@ -80,6 +80,14 @@ Logo abaixo, confira a breve descrição de cada agente desse fluxo sequencial.
 **O que faz**: Cria prompts para imagens, explorando métodos 3W1H e traduzindo-os para múltiplos idiomas com ajustes de qualidade.\
 **Como pode ajudar a pessoa usuária**: Transforma ideias em visuais impactantes, auxiliando na criação de conteúdos gráficos de alta qualidade para diversas finalidades.
 
+
+> [!TIP]
+> Want to better understand this repository, but you don't speak Portuguese? Check out this complete tutorial:
+> [Tutorial - adk_perfil_ia](https://code2tutorial.com/tutorial/9b786148-6909-4706-8c9c-456298693df3/index.md)
+>
+> Talk to a generative AI about this project:
+> [Talk to GitHub - adk_perfis_ia](https://talktogithub.com/marioluciofjr/adk_perfis_ia)
+
 ## Tecnologias utilizadas
 
 <div>
