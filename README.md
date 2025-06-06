@@ -26,7 +26,7 @@ Este projeto apresenta uma coleção de agentes inteligentes especializados em r
 
 A ideia deste projeto de multiagentes surgiu do post ["Qual é o seu tipo de perfil de quem usa IA?"](https://www.linkedin.com/posts/giomangoni_tipos-de-perfis-de-quem-usa-ia-activity-7334255562668343296-q-5p?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHvXJYBKyTyP1ggw536I9ZWCnCwD7LTax0), da Gio Mangoni, consultora de IA na Adapta.
 
-Como o post tem uma estrutura de 10 arquétipos de possíveis usuários de inteligência artificial, eu utilizei essa premissa para desenvolver um fluxo sequencial de mutiagentes com a arquitetura do [ADK (Agent Development Kit)](https://google.github.io/adk-docs/), do Google. É apenas um projeto para fins didáticos, de modo que sirva para estudar um pouco mais sobre o desenvolvimento de agentes inteligentes.
+Como o post tem uma estrutura de 10 arquétipos de possíveis usuários de inteligência artificial, eu utilizei essa premissa para desenvolver um fluxo sequencial de multiagentes com a arquitetura do [ADK (Agent Development Kit)](https://google.github.io/adk-docs/), do Google. É apenas um projeto para fins didáticos, de modo que sirva para estudar um pouco mais sobre o desenvolvimento de agentes inteligentes.
 
 Logo abaixo, confira a breve descrição de cada agente desse fluxo sequencial.
 
